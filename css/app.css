@@ -1,0 +1,22 @@
+img{
+  height: 30%;
+  width: 30%;
+}
+p {
+    border: 1px solid powderblue;
+}
+.topnav {
+    background-color: green;
+    overflow: hidden;
+}
+body{
+  margin: auto;
+
+}
+body {
+  background-color: #8F8B03;
+}
+
+a{
+  text-decoration: none;
+}
